@@ -12,5 +12,6 @@ This repo is an attempt to understand python basics:
 4. [Dictionary, Tuple and Sets](https://github.com/ShaliniSujith/PythonUnderstanding/blob/main/PythonSetsDictTuplesL3.ipynb)
 5. [Arrays with numpy](https://github.com/ShaliniSujith/PythonUnderstanding/blob/main/NumpyAndArrays.ipynb)
 6. [Data exploration using **Pandas**](https://github.com/ShaliniSujith/PythonUnderstanding/blob/main/PandasDataFrameDataSeries.ipynb)
+7. [Reading csv files using **Pandas**](https://github.com/ShaliniSujith/PythonUnderstanding/blob/main/ReadFilesUsingPandas.ipynb)
 
 
